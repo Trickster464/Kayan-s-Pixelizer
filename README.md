@@ -5,4 +5,4 @@
 - [ ] Import from device
 - [ ] Long press delete
 - [ ] Shader improvements
-- [ ] UI improvements
+- [x] UI improvements
